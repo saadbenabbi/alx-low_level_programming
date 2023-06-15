@@ -1,10 +1,14 @@
+
 #include <stdio.h>
-/*
+
+/**
+ * main - Entry point
  *
- * code 
+ * Description: Uses the function "printf"
+ * Return: 0 (Success)
  */
-int main()
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
