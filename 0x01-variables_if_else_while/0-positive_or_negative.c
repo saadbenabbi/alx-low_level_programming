@@ -5,8 +5,7 @@
 /**
  * main - Entry point
  * Description: is positif
- * Return: 0 (Success)
- * 
+ * Return: 0 (Success) 
  */
 int main(void)
 {
