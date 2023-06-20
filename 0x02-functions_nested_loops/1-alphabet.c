@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Entry point
+ * print_alphabet - Function prints alphabet
  *
  * Description: Prints "Alphbet"
  *
