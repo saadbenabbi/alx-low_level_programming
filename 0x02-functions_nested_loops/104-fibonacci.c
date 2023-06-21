@@ -1,5 +1,5 @@
 #include "main.h"
-#define LARGNUMBER 10000000000
+#define LARGNUMBER 1000000000
 /**
  * main - Entry
  *
@@ -26,7 +26,7 @@ int main(void)
 		b1 = c3, b2 = c2;
 
 		if (b1 > 0)
-			printf(", %lu%lu", b1, b2);
+			printf(", %lu%09lu", b1, b2);
 		else
 			printf(", %lu", b2);
 	}
