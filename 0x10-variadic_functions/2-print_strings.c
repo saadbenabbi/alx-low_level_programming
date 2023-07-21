@@ -2,7 +2,7 @@
 #include <stdarg.h>
 #include <stdio.h>
 /**
- * print strings - Entry Point
+ * print_strings - Entry Point
  * @separator: comma space
  * @n: number of elements
  * Return: void
