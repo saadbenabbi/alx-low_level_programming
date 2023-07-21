@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 /**
- * print all - Entry Point
+ * print_all - Entry Point
  * c = char, i = int, f = float, s = char * (if null print (nil))
  * @format: list of arg types
  * Return: 0
